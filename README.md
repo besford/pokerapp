@@ -1,2 +1,3 @@
 # pokerapp
-Pokerapp is a web application which simulates a single hand of poker. Pokerapp may be played with up to four players, either human or AI. This project was written in Java Spring to experiment with selenium and junit for the purposes of integration and acceptance testing.
+Pokerapp is a web application which simulates a single hand of poker. This hand may be played
+with up to four players, which may be either human or AI. This project was written for the purposes of experimentation with selenium and JUnity in integration and acceptance testing.
